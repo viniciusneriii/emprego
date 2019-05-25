@@ -1,0 +1,20 @@
+{
+  "name": "web",
+  "homepage": "https://github.com/viniciusneriii/teste",
+  "authors": [
+    "Vinicius Neri <vinicius.neriii@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
